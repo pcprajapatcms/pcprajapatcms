@@ -54,10 +54,10 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnupprajapat&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Vishnu Prajapat's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pcprajapatcms&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Vishnu Prajapat's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnupprajapat&theme=nightowl" alt="vishnupprajapat" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pcprajapatcms&theme=nightowl" alt="vishnupprajapat" />
 </p>
 
 ---
@@ -65,8 +65,8 @@
 ### Top Repositories
 
 <a href="https://github.com/vishnupprajapat/E-commerce-admin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnupprajapat&repo=E-commerce-admin&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pcprajapatcms&repo=E-commerce-admin&theme=nightowl" />
 </a>
 <a href="https://github.com/vishnupprajapat/netflix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnupprajapat&repo=netflix&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pcprajapatcms&repo=netflix&theme=nightowl" />
 </a>
